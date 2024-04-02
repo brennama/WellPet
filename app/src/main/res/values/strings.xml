@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">WellPet</string>
+    <string name="app_header">Pet Profiles</string>
+    <string name="pet_name">Pet Name</string>
+    <string name="birth_date">Pet Birthdate</string>
+    <string name="species">Pet Species</string>
+    <string name="breed">Pet Breed</string>
+    <string name="temperament">Pet Temperament</string>
+    <string name="vaccination">Pet Vaccination Status</string>
+    <string name="health_issue">Does Pet Have A Health Issue</string>
+    <string name="medication">Does Pet Take A Medication</string>
+    <string name="add_pet_profile">Add a New Pet Profile</string>
+    <string name="del_pet_profile">Delete the New Pet Profile</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Sign in</string>
+    <string name="dont_have_account">Don\'t have an account?\nClick here to sign up</string>
+    <string name="name">name</string>
+    <string name="signup">Sign up</string>
+    <string name="already_have_account">Already have an account?\nClick here to login</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="empty" />
+    <string name="logout">logout</string>
+    <string name="nav_item_1">Home</string>
+    <string name="nav_item_2">Pet Profiles</string>
+    <string name="nav_item_3">Reminders</string>
+    <string name="nav_item_4">Budgeting</string>
+    <string name="nav_item_5">Settings</string>
+    <string name="annual_vet_visit_amount">Annual Vet Visit</string>
+    <string name="budget_name">Name</string>
+    <string name="vaccinations_amount">Vaccinations</string>
+    <string name="food_amount">Food</string>
+    <string name="preventatives_amount">Preventatives</string>
+    <string name="grooming_amount">Grooming</string>
+    <string name="treats_amount">Treats</string>
+    <string name="toys_amount">Toys</string>
+    <string name="pet_name_label">Name</string>
+    <string name="species_label">Species</string>
+    <string name="breed_label">Breed</string>
+    <string name="temperament_label">Temperament</string>
+    <string name="vaccination_status_label">Vaccination Status</string>
+
+
+</resources>
